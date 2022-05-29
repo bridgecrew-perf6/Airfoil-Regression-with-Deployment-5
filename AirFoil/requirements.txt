@@ -5,6 +5,5 @@ numpy
 scipy
 scikit-learn
 matplotlib
-pickle
 Werkzeug
 pandas
